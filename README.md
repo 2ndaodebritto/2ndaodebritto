@@ -1,5 +1,5 @@
 <h1> Greetings! I'm Alex, and I'm studying to become a <a href="https://linkedin.com/in/2ndaodebritto"> Cybersecurity Analyst and Insturctor! </a> </h1>
-<h4 align = "center"> <i>"If you want to master something, teach it." </i> – Richard Feynman </h4>
+<h3><i>"If you want to master something, teach it." </i> – Richard Feynman </h3>
 
 <h1> Tutorial Projects: </h1> 
   
