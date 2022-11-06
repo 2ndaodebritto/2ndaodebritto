@@ -2,8 +2,8 @@
 <h3>Help Desk Tutorials:</h3>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Installation, Setup, and Configuration with an Azure VM](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Installation, Setup, and Configuration within an Azure Virtual Machine](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [Tickets and Ticket Lifecycle](https://github.com/joshmadakorcc/ticket-lifecycle)
 
 <h3>Cloud Tutorials:</h3>
   
