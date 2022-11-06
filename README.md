@@ -6,11 +6,11 @@
 <h3> Help Desk Tutorials: </h3>
 
 - <b> Help Desk Ticketing System with osTicket </b>
-  - [Installation, Setup, and Configuration within an Azure Virtual Machine](https://github.com/)
-  - [Tickets and Ticket Lifecycle](https://github.com/)
+  - [(In Progress) Installation, Setup, and Configuration within an Azure Virtual Machine](https://github.com/2ndaodebritto/osTicket_Install-Setup-Config)
+  - [(In Progress) Tickets and Ticket Lifecycle](https://github.com/)
 
 <h3> Cloud Tutorials: </h3>
   
 - <b> Microsoft Azure </b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
+  - [(In Progress) Configuring On-premises Active Directory within Azure VMs](https://github.com/)
+  - [(In Progress) Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/)
