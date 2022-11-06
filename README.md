@@ -1,4 +1,4 @@
-<h2>Greetings! I'm Alex, and I'm studying to become a <a href="https://linkedin.com/in/2ndaodebritto"> IT and Cybersecurity Professional</a>
+<h2>Greetings! I'm Alex, and I'm studying to become a <a href="https://linkedin.com/in/2ndaodebritto"> IT and Cybersecurity Professional!</a>
 
 <h3>👨‍💻 Information Technology Projects:</h3>
 
