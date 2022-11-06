@@ -1,4 +1,5 @@
-<h2> Greetings! I'm Alex, and I'm studying to become a <a href="https://linkedin.com/in/2ndaodebritto"> IT and Cybersecurity Analyst and Insturctor! </a>
+<h2> Greetings! I'm Alex, and I'm studying to become an <a href="https://linkedin.com/in/2ndaodebritto"> IT and Cybersecurity Analyst and Insturctor! </a><br>
+<center><i>"If you want to master something, teach it"</i> -- Richard Feynman<br</center>
 
 <h3> Help Desk Tutorials: </h3>
 
